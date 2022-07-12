@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+body {
+    background: url(tile.png) top left repeat;
+    font-family: Comic Sans, Comic Sans MS,cursive;
+}
+
+
+
+.container {
+    text-align: center;
+    margin: 0 auto;
+    width: 965px;
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    font-family: times, Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding-top: 12px;
+    font-size: 110px;
+    font-weight: bold;
+}
+
+h3 {
+    color: #fff54f;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+ul {
+    list-style-type: none;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    
+}
+
+ul li {
+    vertical-align: top;
+    display: inline;
+
+}
+
+#primeira {
+    margin: 0;
+}
+
+#segunda {
+    margin: 42px 0;
+    padding-left: 20px;
+}
+#segunda .segunda1 {
+    padding-right: 40px;
+}
+#segunda .segunda2 {
+    padding-right: 40px;
+}
+
+#terceira {
+    margin: 0;
+}
+
+p {
+    display: block;
+    font-weight: bold;
+    text-align: left;
+    margin: 1em 50px;
+    line-height: 1.2em;
+}
+
+.texto1 {
+    color: #fff54f;
+
+    
+    font-size: 25px;
+}
+
+.texto2 {
+    font-size: 21px;
+    color: #fff54f;
+
+}
+
+#quarta .quarta1{
+    padding-right: 90px;
+}
+
+#quarta .quarta2{
+    padding-left: 90px;
+    padding-top: 40px;
+}
+
+.texto3 {
+    font-size: 21px;
+    color: white;
+
+}
+
+div.laço p {
+    background: url(bow_right.png) no-repeat 655px 70px;
+    padding: 22px;
+}
+
+div.laço {
+    background: url(bow_left.png) no-repeat 155px 70px; 
+}
+
+.msg1 {
+    text-align: center;
+    color: #fff54f;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.msg2 {
+    text-align: center;
+    color: #fff54f;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.msg3 {
+    text-align: center;
+    color: #ffe107;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+#doar {
+    margin: 40px 0;
+}
+
+#contagem {
+    background: #000;
+    width: 840px;
+    height: 185px;
+    margin: 0 auto;
+    padding: 8px;
+}
+
+.c1 {
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin: 12px 0;
+}
+
+.c2 {
+    color: #fff54f;
+    font-size: 25px;
+    margin: 12px 0;
+    text-align: center;
+}
+
+.termos {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.termos a {
+    color: white;
+    margin-left: 40px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.termos #termos1 {
+    margin-left: 0;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: 20px;
+}
